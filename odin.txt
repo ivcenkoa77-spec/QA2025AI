@@ -1,1 +1,4 @@
 # QA2025AI
+odin
+dva
+tri
